@@ -12,3 +12,9 @@ int main() {
     
     return 0;
 }
+
+/*
+output:-
+    Enter an integer: 25
+    You entered: 25
+*/
